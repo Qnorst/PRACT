@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Windows\Cooker.xaml~RF23cb3a2.TMP" />
+    <None Remove="Windows\kuhnya_serial_online.gif" />
+    <None Remove="Windows\thumb.jfif" />
+    <None Remove="Windows\thumb.png" />
+    <None Remove="Windows\thumb1.png" />
+    <None Remove="Windows\thumb1212.png" />
+    <None Remove="Windows\Без имени.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="xunit.extensibility.core" Version="2.4.1" />
+    <PackageReference Include="xunit.extensibility.execution" Version="2.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Windows\kuhnya_serial_online.gif" />
+    <Resource Include="Windows\thumb.jfif" />
+    <Resource Include="Windows\thumb.png" />
+    <Resource Include="Windows\thumb1.png" />
+    <Resource Include="Windows\thumb1212.png" />
+    <Resource Include="Windows\Без имени.png" />
+  </ItemGroup>
+
+</Project>

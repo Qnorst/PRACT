@@ -1,0 +1,126 @@
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Pract.exe
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Pract.deps.json
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Pract.runtimeconfig.json
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Pract.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\ref\Pract.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Pract.pdb
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Castle.Core.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\xunit.abstractions.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\xunit.core.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Pract\Pract\obj\Debug\net6.0-windows\App.g.cs
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract_MarkupCompile.cache
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract_MarkupCompile.lref
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.g.resources
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.AssemblyInfoInputs.cache
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.AssemblyInfo.cs
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.csproj.CoreCompileInputs.cache
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.csproj.CopyComplete
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.dll
+Z:\Pract\Pract\obj\Debug\net6.0-windows\ref\Pract.dll
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.pdb
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.genruntimeconfig.cache
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Windows\Waiter.g.cs
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Windows\Waiter.baml
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Pract.csproj.AssemblyReference.cache
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Windows\Cooker.g.cs
+Z:\Pract\Pract\obj\Debug\net6.0-windows\Windows\Cooker.baml
+Z:\Pract\Pract\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Pract.exe
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Pract.deps.json
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Pract.runtimeconfig.json
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Pract.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\ref\Pract.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Pract.pdb
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Castle.Core.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Humanizer.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\xunit.abstractions.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\xunit.core.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Практика 2\Pract\Pract\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.csproj.AssemblyReference.cache
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Windows\Cooker.g.cs
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Windows\MainWindow.g.cs
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Windows\Waiter.g.cs
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\App.g.cs
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract_MarkupCompile.cache
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract_MarkupCompile.lref
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Windows\Cooker.baml
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Windows\MainWindow.baml
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Windows\Waiter.baml
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.g.resources
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.AssemblyInfoInputs.cache
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.AssemblyInfo.cs
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.csproj.CoreCompileInputs.cache
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.csproj.CopyComplete
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.dll
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\ref\Pract.dll
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.pdb
+Z:\Практика 2\Pract\Pract\obj\Debug\net6.0-windows\Pract.genruntimeconfig.cache

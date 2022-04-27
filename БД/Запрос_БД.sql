@@ -1,0 +1,33 @@
+CREATE TABLE Users 
+( 
+Id INT PRIMARY KEY IDENTITY,
+FirstName NVARCHAR(20),
+LastName NVARCHAR(20),
+SecondName NVARCHAR(20),
+Login NVARCHAR(20),
+Password NVARCHAR(20),
+Role BIT
+)
+
+CREATE TABLE Dish
+( 
+Id INT PRIMARY KEY IDENTITY,
+Title NVARCHAR(20),
+Price MONEY,
+Time DECIMAL(4, 2)
+)
+
+CREATE TABLE Orders
+( 
+Id INT PRIMARY KEY IDENTITY,
+CookerStatus BIT,
+WaiterStatus BIT
+)
+
+CREATE TABLE Dish_Order 
+( 
+Dish_Id INT REFERENCES Dish(Id),
+Order_Id INT REFERENCES Orders (Id),
+CONSTRAINT PK_Name PRIMARY KEY (Dish_Id, Order_Id)
+
+)

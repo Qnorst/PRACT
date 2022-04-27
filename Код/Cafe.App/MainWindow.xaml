@@ -1,0 +1,27 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cafe.App"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="Cafe.App.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="433*"/>
+        </Grid.RowDefinitions>
+        <PasswordBox Name="PbPassword" Grid.Column="1" HorizontalAlignment="Center" Margin="0,190,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <TextBox Text="{Binding User.Login}" Grid.Column="1" HorizontalAlignment="Center" Margin="0,127,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" Margin="0,39,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="ru-ru" Text="Авторизация"/></TextBlock>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="94,127,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Text="Логин:"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="86,190,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="ru-ru" Text="Пароль:"/></TextBlock>
+        <Button Command="{Binding LoginCommand}" Grid.Column="1" Content="Enter" CommandParameter="{Binding ElementName=PbPassword}" HorizontalAlignment="Center" Margin="0,229,0,0" Grid.Row="1" VerticalAlignment="Top" BorderBrush="Black" Background="Red" FontFamily="KentuckyFriedChickenFont" FontSize="14"/>
+        <Image HorizontalAlignment="Center" Height="390" Margin="0,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="390" Source="/Image2.png"/>
+   </Grid>
+</Window>
